@@ -1,0 +1,22 @@
+[
+  {
+    "platform": "Windows 10",
+    "browserName": "chrome",
+    "version": "128"
+  },
+  {
+    "platform": "macOS Ventura",
+    "browserName": "edge",
+    "version": "127"
+  },
+  {
+    "platform": "Windows 11",
+    "browserName": "Firefox",
+    "version": "130"
+  },
+  {
+    "platform": "Windows 10",
+    "browserName": "Internet Explorer",
+    "version": "11"
+  }
+]
